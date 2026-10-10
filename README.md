@@ -28,8 +28,6 @@
 ![CBAP](https://img.shields.io/badge/CBAP-IIBA-8DBBDD?style=flat-square)
 ![CDMP](https://img.shields.io/badge/CDMP-DAMA-8DBBDD?style=flat-square)
 ![MTA](https://img.shields.io/badge/MTA-Microsoft-9CCB8A?style=flat-square)
-![CISSP](https://img.shields.io/badge/CISSP-in_progress-lightgrey?style=flat-square)
-![Open CA](https://img.shields.io/badge/Open_CA-in_progress-lightgrey?style=flat-square)
 
 ### Tech I work with
 
