@@ -7,6 +7,8 @@
 
 <p align="center">
   <a href="https://mosadag.github.io"><img src="https://img.shields.io/badge/Portfolio-mosadag.github.io-18232F?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/musadag/"><img src="https://img.shields.io/badge/LinkedIn-musadag-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mosadag@gmail.com"><img src="https://img.shields.io/badge/Email-mosadag@gmail.com-5A6570?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
